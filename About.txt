@@ -1,0 +1,24 @@
+----------------------------------------
+File: About.txt
+----------------------------------------
+Scripts Included:
+
+1. Cleandownloads.py
+   Purpose: Organize and clean the Downloads directory by categorizing files and removing unwanted ones.
+
+2. Cleanpictures.py
+   Purpose: Manage and organize picture files in a directory, removing duplicates and unnecessary images.
+
+3. Countfiles.py
+   Purpose: Count and categorize the number of files in a given directory and its subdirectories.
+
+4. Extractfiles.py
+   Purpose: Automate the extraction of files from compressed folders or archives within a specified directory into one folder.
+
+5. Merge.py
+   Purpose: Merge CSV files together into one.
+
+Usage Information:
+- Each script should be used as per its designated purpose.
+- Ensure to read through the script documentation or comments for specific usage instructions and options.
+----------------------------------------
