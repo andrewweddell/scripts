@@ -35,3 +35,12 @@ if not merged_data.empty:
     merged_data.to_csv(os.path.join(folder_path, 'merged_file.csv'), index=False)
 else:
     print("Merged DataFrame is empty. No file was saved.")
+
+#write file names to a text file
+with open('file_names.txt', 'w') as f:
+    for item in csv_files:
+        f.write("%s\n" % item)
+
+
+
+
