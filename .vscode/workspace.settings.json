@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Mobile Documents/com~apple~CloudDocs/Documents/Support 2023"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			
+
+			"editor.background": "#231f1f",
+			"editor.lineHighlightBorder": "#ff00f7",
+			"editor.wordHighlightTextBackground": "#ceff2b",
+			"editor.selectionHighlightBackground": "#ceff2b" 
+			 
+		},
+	 
+	}
+}
